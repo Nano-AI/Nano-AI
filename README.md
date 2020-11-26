@@ -1,6 +1,6 @@
 # Hey, I'm [Nano-AI]([https://github.com/Nano-AI](https://github.com/Nano-AI))!
-### Languages and Tools:
-#### Languages I know:
+## Languages and Tools:
+### Languages I know:
 - Python
 - Java
 - JavaScript
@@ -9,6 +9,15 @@
 - Go/Golang (Learning it)
 - C++ (Partly know it)
 - C# (Partly know it)
+
+### IDE's I Use
+- PyCharm
+- IntelliJ
+- Visual Studio
+- Visual Studio Code
+- Sublime Text
+- Vim
+- CodeBlocks
 
 
 ![Nano-AI's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=Nano-AI&show_icons=true&theme=dark)
