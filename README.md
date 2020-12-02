@@ -6,9 +6,9 @@
 - JavaScript
 - C
 - HTML, CSS
-- Go/Golang (Learning it)
 - C++ (Partly know it)
 - C# (Partly know it)
+- Go/Golang (Partly know it)
 
 ### IDE's I Use
 - PyCharm
