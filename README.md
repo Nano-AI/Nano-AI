@@ -1,4 +1,5 @@
 # Hey, I'm [Nano-AI]([https://github.com/Nano-AI](https://github.com/Nano-AI))!
+I'm a coder, gamer, and a piano player.
 ## Languages and Tools:
 ### Languages I know:
 - Python
