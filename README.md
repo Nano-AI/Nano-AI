@@ -9,7 +9,7 @@ I'm a coder, gamer, and a piano player.
 - HTML, CSS
 - C++ (Partly know it)
 - C# (Partly know it)
-- Go/Golang (Partly know it)
+- Go/Golang (Know little to none)
 
 ### IDE's I Use
 - PyCharm
