@@ -11,6 +11,11 @@ I'm a coder, gamer, and a piano player.
 - C# (Partly know it)
 - Go/Golang (Know little to none)
 
+### Tools I use
+- Node
+- Bootstrap
+- React
+
 ### IDE's I Use
 - PyCharm
 - IntelliJ
