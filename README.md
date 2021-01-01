@@ -5,8 +5,8 @@ I'm a coder, gamer, and a piano player.
 - Python
 - Java
 - JavaScript
-- C
 - HTML, CSS
+- C (Mostly know it)
 - C++ (Partly know it)
 - C# (Partly know it)
 - Go/Golang (Know little to none)
@@ -14,6 +14,7 @@ I'm a coder, gamer, and a piano player.
 ### Tools I use
 - Node
 - Bootstrap
+- Material UI
 - React
 
 ### IDE's I Use
