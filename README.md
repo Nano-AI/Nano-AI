@@ -18,13 +18,12 @@ I'm a coder, gamer, and a piano player.
 - React
 
 ### IDE's I Use
-- PyCharm
-- IntelliJ
-- Visual Studio
-- Visual Studio Code
-- Sublime Text
-- Vim
-- CodeBlocks
+- PyCharm - Python
+- IntelliJ - Java
+- Visual Studio - C++ & C#
+- Visual Studio Code - JavaScript
+- Sublime Text - C
+- CodeBlocks - C++ & C#
 
 
 ![Nano-AI's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=Nano-AI&show_icons=true&theme=dark)
