@@ -7,9 +7,7 @@ I'm a coder, gamer, and a piano player.
 - Java
 - JavaScript
 - HTML, CSS
-- C (Mostly know it)
-- C++ (Partly know it)
-- C# (Partly know it)
+- C++, C, and C# (Partly know it)
 - Go/Golang (Know little to none)
 
 ### Tools I Know
