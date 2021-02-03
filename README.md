@@ -19,12 +19,14 @@ I'm a coder, gamer, and a piano player.
 - [Material UI](https://material-ui.com/)
 
 ### IDE's I Use
-- PyCharm - Python
-- IntelliJ - Java
-- Visual Studio - C++ & C#
-- Visual Studio Code - JavaScript
-- Sublime Text - C
-- CodeBlocks - C++ & C#
+- [PyCharm](https://www.jetbrains.com/pycharm/) - Python
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Java
+- [Visual Studio](https://visualstudio.microsoft.com/) - C++ & C#
+- [Visual Studio Code](https://code.visualstudio.com/) - JavaScript
+- [Eclipse](https://www.eclipse.org/) - Java & C++ (Not using anymore)
+- [Sublime Text](https://www.sublimetext.com/) - C (Not using anymore)
+- [CodeBlocks](http://www.codeblocks.org/) - C++ & C# (Not using anymore)
+- [Vim](https://www.vim.org/) - C++ & C (Not using anymore)
 
 
 ![Nano-AI's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=Nano-AI&show_icons=true&theme=dark)
