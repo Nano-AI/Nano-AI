@@ -1,5 +1,6 @@
 # Hey, I'm [Nano-AI]([https://github.com/Nano-AI](https://github.com/Nano-AI))!
 I'm a coder, gamer, and a piano player.
+
 ## Languages and Tools:
 ### Languages I know:
 - Python
@@ -11,11 +12,11 @@ I'm a coder, gamer, and a piano player.
 - C# (Partly know it)
 - Go/Golang (Know little to none)
 
-### Tools I use
-- Node
-- Bootstrap
-- Material UI
-- React
+### Tools I Know
+- [Node](https://nodejs.org/en/)
+- [Bootstrap](https://getbootstrap.com/)
+- [React](https://reactjs.org/)
+- [Material UI](https://material-ui.com/)
 
 ### IDE's I Use
 - PyCharm - Python
