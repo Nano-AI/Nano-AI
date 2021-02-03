@@ -4,7 +4,7 @@ I'm a coder, gamer, and a piano player.
 
 ## Languages and Tools:
 <details open>
-<summary><h2>Languages I know:</h2></summary>
+<summary><h3>Languages I know:</h3></summary>
     <ul>
         <li>Python</li>
         <li>Java</li>
