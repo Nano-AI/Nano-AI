@@ -4,15 +4,15 @@ I'm a coder, gamer, and a piano player.
 
 ## Languages and Tools:
 <details open>
-<summary>Languages I know:</summary>
-    <li>
-        <ul>Python</ul>
-        <ul>Java</ul>
-        <ul>JavaScript</ul>
-        <ul>HTML, CSS</ul>
-        <ul>C++, C, and C# (Partly know it)</ul>
-        <ul>Go/Golang (Know little to none)</ul>
-    </li>
+<summary><h2>Languages I know:</h2></summary>
+    <ul>
+        <li>Python</li>
+        <li>Java</li>
+        <li>JavaScript</li>
+        <li>HTML, CSS</li>
+        <li>C++, C, and C# (Partly know it)</li>
+        <li>Go/Golang (Know little to none)</li>
+    </ul>
 </details>
 
 ### Tools I Know
