@@ -3,17 +3,13 @@
 I'm a coder, gamer, and a piano player.
 
 ## Languages and Tools:
-<details open>
-<summary><h3>Languages I know:</h3></summary>
-    <ul>
-        <li>Python</li>
-        <li>Java</li>
-        <li>JavaScript</li>
-        <li>HTML, CSS</li>
-        <li>C++, C, and C# (Partly know it)</li>
-        <li>Go/Golang (Know little to none)</li>
-    </ul>
-</details>
+# Languages I know:
+ - Python
+ - Java
+ - JavaScript
+ - HTML, CSS
+ - C++, C, and C# (Partly know it)
+ - Go/Golang (Know little to none)
 
 ### Tools I Know
 - [Node](https://nodejs.org/en/)
