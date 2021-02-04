@@ -9,8 +9,8 @@ I'm a coder, gamer, and a piano player.
 <img src="./icons/javascript/javascript-original.svg" height="30">
 <img           src="./icons/html5/html5-original.svg" height="30">
 <img             src="./icons/css3/css3-original.svg" height="30">
-<img                   src="./icons/c/c-original.svg" height="30">
-<img   src="./icons/cplusplus/cplusplus-original.svg" height="30">
+<img                   src="./icons/c/c-original.png" height="30">
+<img   src="./icons/cplusplus/cplusplus-line.svg" height="30">
 <img         src="./icons/csharp/csharp-original.svg" height="30">
 </kbd>
 
