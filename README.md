@@ -5,7 +5,7 @@
 ![GitHub iampawan](https://img.shields.io/github/followers/Nano-AI?label=follow&style=social)
 
 <details>
-<summary>About me</summary> 
+  <summary><h3>About me</h3></summary> 
 I'm a coder, gamer, and a piano player.
 </details>
 
