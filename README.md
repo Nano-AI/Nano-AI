@@ -4,10 +4,7 @@
 # Hey, I'm [Nano-AI]([https://github.com/Nano-AI](https://github.com/Nano-AI))!
 ![GitHub iampawan](https://img.shields.io/github/followers/Nano-AI?label=follow&style=social)
 
-<details>
-  <summary># About me</summary> 
 I'm a coder, gamer, and a piano player.
-</details>
 
 ## Languages and Tools:
 ### Languages I know:
