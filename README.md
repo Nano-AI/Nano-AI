@@ -1,26 +1,63 @@
-
-
-
 # Hey, I'm [Nano-AI]([https://github.com/Nano-AI](https://github.com/Nano-AI))!
 ![GitHub iampawan](https://img.shields.io/github/followers/Nano-AI?label=follow&style=social)
+
 I'm a coder, gamer, and a piano player.
 
 ## Languages and Tools:
-### Languages I know:
+### Languages I Know/Use:
+<kbd>
+<img         src="./icons/python/python-original.svg" height="30">
+<img             src="./icons/java/java-original.svg" height="30">
+<img src="./icons/javascript/javascript-original.svg" height="30">
+<img           src="./icons/html5/html5-original.svg" height="30">
+<img             src="./icons/css3/css3-original.svg" height="30">
+<img                   src="./icons/c/c-original.svg" height="30">
+<img   src="./icons/cplusplus/cplusplus-original.svg" height="30">
+<img         src="./icons/csharp/csharp-original.svg" height="30">
+</kbd>
+
+<details>
+    <summary>Languages in detail</summary>
+
 - Python
 - Java
 - JavaScript
 - HTML, CSS
-- C++, C, and C# (Partly know it)
+- C, C++, and C# (Partly know it)
 - Go/Golang (Know little to none)
+</details>
 
-### Tools I Know
+### Tools I Know/Use
+<kbd>
+<img src="./icons/nodejs/nodejs-original.svg" height="30">
+<img src="./icons/bootstrap/bootstrap-plain.svg" height="30">
+<img src="./icons/react/react-original.svg" height="30">
+<img src="./icons/materialui/materialui-original.svg" height="30">
+<img src="./icons/electron/electron-original.svg" height="30">
+</kbd>
+
+<details>
+<summary>Tools in detail</summary>
+
 - [Node](https://nodejs.org/en/)
 - [Bootstrap](https://getbootstrap.com/)
 - [React](https://reactjs.org/)
 - [Material UI](https://material-ui.com/)
+- [Electron](https://www.electronjs.org/)
+</details>
 
-### IDE's I Use
+### IDEs I Use
+<kbd>
+<img src="./icons/pycharm/pycharm-original.svg" height="30">
+<img src="./icons/intellij/intellij-original.svg" height="30">
+<img src="./icons/visualstudio/visualstudio-plain.svg" height="30">
+<img src="./icons/visualstudiocode/visualstudiocode-original.svg" height="30">
+<img src="./icons/visualstudiocode/visualstudiocode-original.svg" height="30">
+<img src="./icons/eclipse/eclipse-original.svg" height="30">
+<img src="./icons/sublime/sublime-original.svg" height="30">
+</kbd>
+
+
 - [PyCharm](https://www.jetbrains.com/pycharm/) - Python
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Java
 - [Visual Studio](https://visualstudio.microsoft.com/) - C++ & C#
