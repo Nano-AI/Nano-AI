@@ -52,7 +52,7 @@ I'm a coder, gamer, and a piano player.
 </details>
 
 
-### Tools I Know/Use
+### Tools/Frameworks I Know/Use
 <kbd>
 <img src="./icons/nodejs/nodejs-original.svg" height="30">
 <img src="./icons/bootstrap/bootstrap-plain.svg" height="30">
