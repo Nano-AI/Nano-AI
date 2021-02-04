@@ -2,6 +2,8 @@
 
 
 # Hey, I'm [Nano-AI]([https://github.com/Nano-AI](https://github.com/Nano-AI))!
+![GitHub iampawan](https://img.shields.io/github/followers/Nano-AI?label=follow&style=social)
+
 <details>
 <summary>About me</summary> 
 I'm a coder, gamer, and a piano player.
@@ -33,7 +35,5 @@ I'm a coder, gamer, and a piano player.
 - [Vim](https://www.vim.org/) - C++ & C (Not using anymore)
 
 ## GitHub Stats
-![GitHub iampawan](https://img.shields.io/github/followers/Nano-AI?label=follow&style=social)
-![Nano-AI's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=Nano-AI&show_icons=true&theme=dark)
-
+[![Nano-AI's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=Nano-AI&show_icons=true&theme=dark)](https://github.com/Nano-AI)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nano-AI&layout=compact&theme=dark)](https://github.com/Nano-AI)
