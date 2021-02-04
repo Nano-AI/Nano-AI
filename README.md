@@ -1,15 +1,21 @@
 
+
 # Hey, I'm [Nano-AI]([https://github.com/Nano-AI](https://github.com/Nano-AI))!
 I'm a coder, gamer, and a piano player.
 
 ## Languages and Tools:
-# Languages I know:
- - Python
- - Java
- - JavaScript
- - HTML, CSS
- - C++, C, and C# (Partly know it)
- - Go/Golang (Know little to none)
+### Languages I know:
+<details open>
+ <summary></summary>
+ <ul>
+  <li>Python</li>
+  <li>Java</li>
+  <li>JavaScript</li>
+  <li>HTML, CSS</li>
+  <li>C++, C, and C# (Partly know it)</li>
+  <li>Go/Golang (Know little to none)</li>
+ </ul>
+</details>
 
 ### Tools I Know
 - [Node](https://nodejs.org/en/)
