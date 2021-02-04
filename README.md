@@ -1,8 +1,6 @@
-# Hey, I'm [Nano-AI]([https://github.com/Nano-AI](https://github.com/Nano-AI))!
-![GitHub iampawan](https://img.shields.io/github/followers/Nano-AI?label=follow&style=social)
+# Hey, I'm [Nano-AI]([https://github.com/Nano-AI](https://github.com/Nano-AI))!<br>![GitHub iampawan](https://img.shields.io/github/followers/Nano-AI?label=follow&style=social)
 
 I'm a coder, gamer, and a piano player.
-
 ## Languages and Tools:
 ### Languages I Know/Use:
 <kbd>
@@ -27,6 +25,33 @@ I'm a coder, gamer, and a piano player.
 - Go/Golang (Know little to none)
 </details>
 
+
+### IDEs I Use
+<kbd>
+<img src="./icons/pycharm/pycharm-original.svg" height="30">
+<img src="./icons/intellij/intellij-original.svg" height="30">
+<img src="./icons/visualstudio/visualstudio-plain.svg" height="30">
+<img src="./icons/visualstudiocode/visualstudiocode-original.svg" height="30">
+<img src="./icons/eclipse/eclipse-original.png" height="30">
+<img src="./icons/sublime/sublime-original.svg" height="30">
+<img src="./icons/codeblocks/codeblocks-original.png" height="30">
+<img src="./icons/vim/vim-original.svg" height="30">
+</kbd>
+
+<details>
+<summary>IDEs in detail</summary>
+
+- [PyCharm](https://www.jetbrains.com/pycharm/) - Python
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Java
+- [Visual Studio](https://visualstudio.microsoft.com/) - C++ & C#
+- [Visual Studio Code](https://code.visualstudio.com/) - JavaScript
+- [Eclipse](https://www.eclipse.org/) - Java & C++ (Not using anymore)
+- [Sublime Text](https://www.sublimetext.com/) - C (Not using anymore)
+- [CodeBlocks](http://www.codeblocks.org/) - C++ & C# (Not using anymore)
+- [Vim](https://www.vim.org/) - C++ & C (Not using anymore)
+</details>
+
+
 ### Tools I Know/Use
 <kbd>
 <img src="./icons/nodejs/nodejs-original.svg" height="30">
@@ -46,27 +71,7 @@ I'm a coder, gamer, and a piano player.
 - [Electron](https://www.electronjs.org/)
 </details>
 
-### IDEs I Use
-<kbd>
-<img src="./icons/pycharm/pycharm-original.svg" height="30">
-<img src="./icons/intellij/intellij-original.svg" height="30">
-<img src="./icons/visualstudio/visualstudio-plain.svg" height="30">
-<img src="./icons/visualstudiocode/visualstudiocode-original.svg" height="30">
-<img src="./icons/visualstudiocode/visualstudiocode-original.svg" height="30">
-<img src="./icons/eclipse/eclipse-original.svg" height="30">
-<img src="./icons/sublime/sublime-original.svg" height="30">
-</kbd>
-
-
-- [PyCharm](https://www.jetbrains.com/pycharm/) - Python
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Java
-- [Visual Studio](https://visualstudio.microsoft.com/) - C++ & C#
-- [Visual Studio Code](https://code.visualstudio.com/) - JavaScript
-- [Eclipse](https://www.eclipse.org/) - Java & C++ (Not using anymore)
-- [Sublime Text](https://www.sublimetext.com/) - C (Not using anymore)
-- [CodeBlocks](http://www.codeblocks.org/) - C++ & C# (Not using anymore)
-- [Vim](https://www.vim.org/) - C++ & C (Not using anymore)
-
 ## GitHub Stats
 [![Nano-AI's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=Nano-AI&show_icons=true&theme=dark)](https://github.com/Nano-AI)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nano-AI&layout=compact&theme=dark)](https://github.com/Nano-AI)
