@@ -7,6 +7,7 @@ I'm a coder, gamer, and a piano player.
 <img         src="./icons/python/python-original.svg" height="30">
 <img             src="./icons/java/java-original.svg" height="30">
 <img src="./icons/javascript/javascript-original.svg" height="30">
+<img src="./icons/typescript/typescript-original.png" height="30">
 <img           src="./icons/html5/html5-original.svg" height="30">
 <img             src="./icons/css3/css3-original.svg" height="30">
 <img                   src="./icons/c/c-original.png" height="30">
@@ -19,10 +20,11 @@ I'm a coder, gamer, and a piano player.
 
 - Python
 - Java
-- JavaScript
+- JavaScript & TypeScript (Basically the same thing)
 - HTML, CSS
 - C, C++, and C# (Partly know it)
 - Go/Golang (Know little to none)
+- Rust (Learning)
 </details>
 
 
