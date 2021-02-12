@@ -76,7 +76,7 @@ I'm a coder, gamer, and a piano player.
 ## GitHub Stats
 [![Nano-AI's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=Nano-AI&show_icons=true&theme=dark)](https://github.com/Nano-AI)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nano-AI&layout=compact&theme=dark)](https://github.com/Nano-AI)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nano-AI&layout=compact&theme=dark&hide=html,css)](https://github.com/Nano-AI)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nano-AI&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
