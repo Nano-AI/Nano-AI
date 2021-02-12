@@ -60,7 +60,6 @@ I'm a coder, gamer, and a piano player.
 <img src="./icons/bootstrap/bootstrap-plain.svg" height="30">
 <img src="./icons/react/react-original.svg" height="30">
 <img src="./icons/materialui/materialui-original.svg" height="30">
-<img src="./icons/electron/electron-original.svg" height="30">
 </kbd>
 
 <details>
@@ -70,7 +69,7 @@ I'm a coder, gamer, and a piano player.
 - [Bootstrap](https://getbootstrap.com/)
 - [React](https://reactjs.org/)
 - [Material UI](https://material-ui.com/)
-- [Electron](https://www.electronjs.org/)
+- [Electron](https://www.electronjs.org/) (Partly know)
 </details>
 
 ## GitHub Stats
