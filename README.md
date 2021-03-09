@@ -1,7 +1,7 @@
 # Hey, I'm [Nano-AI]([https://github.com/Nano-AI](https://github.com/Nano-AI))!<br>![GitHub iampawan](https://img.shields.io/github/followers/Nano-AI?label=follow&style=social)
 
 I'm a coder, gamer, and a piano player.
-## Games:
+## Games I Play:
 - Counter Strike: Global Offensive
 - Rainbow 6 Seige
 - Minecraft
