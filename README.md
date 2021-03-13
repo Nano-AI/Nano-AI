@@ -5,6 +5,8 @@ I'm a coder, gamer, and a piano player.
 - Counter Strike: Global Offensive
 - Rainbow 6 Seige
 - Minecraft
+- osu!
+- Aim Lab
 - Valorant
 - Call of Duty: Warzone
 - Apex Legends
