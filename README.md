@@ -105,4 +105,4 @@ This is just a note for myself.
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nano-AI&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nano-AI&theme=dark&hide=html,css,scss)](https://github.com/Nano-AI)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nano-AI&theme=dark&hide=html,css,scss&layout=compact)](https://github.com/Nano-AI)
