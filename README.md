@@ -92,16 +92,16 @@ I enjoy messing around with different coding languages and don't really have a m
 
 ### Todo:
 This is just a note for myself.
-- Code an app that blocks video games, non educational YouTube videos, etc.
-- Code an Operating System - [Tutorial](https://github.com/cfenollosa/os-tutorial)
-- Code a Crypto-currency - [1st tutorial](https://lhartikk.github.io/), [2nd tutorial](https://www.youtube.com/watch?v=vJdT05zl6jk&list=PLwnSaD6BDfXL0RiKT_5nOIdxTxZWpPtAv)
-- Code an open source paper trading platform for people to use without signing up
-- Code a web browser
-- Code a programming language
-- Code Chess
-- Learn OpenGL
-- Learn Rust
-- Actually use C++ and C
+- [ ] Code an app that blocks video games, non educational YouTube videos, etc.
+- [ ] Code an Operating System - [Tutorial](https://github.com/cfenollosa/os-tutorial)
+- [ ] Code a Crypto-currency - [1st tutorial](https://lhartikk.github.io/), [2nd tutorial](https://www.youtube.com/watch?v=vJdT05zl6jk&list=PLwnSaD6BDfXL0RiKT_5nOIdxTxZWpPtAv)
+- [ ] Code Chess
+- [ ] Code an open source paper trading platform for people to use without signing up
+- [ ] Code a web browser
+- [ ] Code a programming language
+- [ ] Code Chess [(Work in progress)](https://github.com/Nano-AI/Chess)
+- [ ] Learn OpenGL
+- [ ] Learn Rust
 
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nano-AI&show_icons=true&theme=dark)
