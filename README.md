@@ -40,6 +40,7 @@ I enjoy messing around with different coding languages and don't really have a m
 
 <kbd>
 <img src="./icons/visualstudiocode/visualstudiocode-original.svg" height="30">
+<img src="./icons/vim/vim-original.svg" height="30">
 <img src="./icons/visualstudio/visualstudio-plain.svg" height="30">
 <img src="./icons/intellij/intellij-original.svg" height="30">    
 <img src="./icons/pycharm/pycharm-original.svg" height="30">
@@ -47,17 +48,18 @@ I enjoy messing around with different coding languages and don't really have a m
 <img src="./icons/eclipse/eclipse-original.png" height="30">
 <img src="./icons/sublime/sublime-original.svg" height="30">
 <img src="./icons/webstorm/webstorm-original.svg" height="30">
-<img src="./icons/vim/vim-original.svg" height="30">
 </kbd>
 
 <details>
 <summary>IDEs in detail</summary>    
     
-- [Visual Studio Code](https://code.visualstudio.com/) - Python, C, C++, Rust, JavaScript, TypeScript, HTML, CSS, Go
-    
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Java (Android Studio for Andriod dev)
-    
+- [Vim](https://www.vim.org/) - Goto editor for every language. Using it with SpaceVim and Tmux.
+
+- [Visual Studio Code](https://code.visualstudio.com/) - Used for bigger projects. Python, C, C++, Rust, JavaScript, TypeScript, HTML, CSS, Go.
+ 
 - [Visual Studio](https://visualstudio.microsoft.com/) - C++ & C#
+ 
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Java (Android Studio for Andriod dev)
     
 - [CodeBlocks](http://www.codeblocks.org/) - C++ & C (Not using anymore)
     
@@ -66,8 +68,6 @@ I enjoy messing around with different coding languages and don't really have a m
 - [Eclipse](https://www.eclipse.org/) - Java & C++ (Not using anymore)
     
 - [Sublime Text](https://www.sublimetext.com/) - C (Not using anymore)
-    
-- [Vim](https://www.vim.org/) - Tried to use as my goto editor for every language. Still use it every now and then with SpaceVim.
 </details>
 
 
