@@ -101,6 +101,9 @@ This is just a note for myself.
 - [ ] Code Chess [(Work in progress)](https://github.com/Nano-AI/Chess)
 - [ ] Learn OpenGL
 - [ ] Learn Rust
+- [ ] Make a spinning donut
+- [ ] Create a ray tracer
+- [ ] Create a 3D game
 
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nano-AI&show_icons=true&theme=dark)
