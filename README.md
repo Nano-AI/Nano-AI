@@ -2,10 +2,7 @@
 
 I'm a coder, gamer, and a piano player.
 
-I enjoy messing around with different coding languages and don't really have a main one. It all depends on the mood, time, and project.
-
-> I usually have no idea what to code, hence I don't have many recent projects.
-> Also, I have a lot of unfinished projects that I haven't worked on in a while.
+<a href="https://leetcode.com/SunCrusader/">LeetCode</a>
 
 ## Languages and Tools:
 ### Languages I Know/Use:
