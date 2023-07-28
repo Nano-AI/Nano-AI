@@ -89,6 +89,8 @@ I'm a coder, gamer, and a piano player.
 
 ### Todo:
 This is just a note for myself.
+- [ ] Code a video game.
+- [ ] Get more into front end development - [Great example/idea of a starter project](https://www.youtube.com/watch?v=PkADl0HubMY)
 - [ ] Code an app that blocks video games, non educational YouTube videos, etc.
 - [ ] Code an Operating System - [Tutorial](https://github.com/cfenollosa/os-tutorial)
 - [ ] Code a Crypto-currency - [1st tutorial](https://lhartikk.github.io/), [2nd tutorial](https://www.youtube.com/watch?v=vJdT05zl6jk&list=PLwnSaD6BDfXL0RiKT_5nOIdxTxZWpPtAv)
