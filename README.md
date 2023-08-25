@@ -108,3 +108,5 @@ This is just a note for myself.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nano-AI&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nano-AI&theme=dark&hide=html,css,scss&layout=compact)](https://github.com/Nano-AI)
+
+<a href="https://data.typeracer.com/pit/profile?user=suncrusader&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=suncrusader" border="0" alt="TypeRacer.com scorecard for user suncrusader"/></a>
