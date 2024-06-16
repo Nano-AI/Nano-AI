@@ -86,6 +86,7 @@ I'm a coder, gamer, and a piano player.
 - [Material UI](https://material-ui.com/)
 - [Electron](https://www.electronjs.org/)
 </details>
+
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nano-AI&show_icons=true&theme=dark)
 
