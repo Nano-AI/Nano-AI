@@ -1,7 +1,5 @@
 # Hey, I'm [Nano-AI](https://github.com/Nano-AI)!<br>![GitHub iampawan](https://img.shields.io/github/followers/Nano-AI?label=follow&style=social)
 
-<a href="https://leetcode.com/SunCrusader/">LeetCode</a>
-
 ## Languages and Tools:
 ### Languages I Know/Use:
 <kbd>
