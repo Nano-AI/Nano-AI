@@ -25,9 +25,11 @@ Mostly interested in the seam where **graphics, systems, and ML** meet — rende
 
 | Project | What it is | |
 | :--- | :--- | :--- |
+| **Orion**<br>`C++ · Metal` | A subscription-free raw photo editor for macOS. A C++20 engine drives a 27-node Metal compute graph, and because the edits form a DAG rather than a chain, moving a slider recomputes only what sits downstream — a 24 MP raw re-renders in about 8 ms at full resolution, no preview proxy. Every non-trivial filter cites a published reference; the ones that do not are listed in `research/UNSOURCED.md`. | [Site](https://nano-ai.github.io/Orion/) · [Code](https://github.com/Nano-AI/Orion) |
 | **Nazar**<br>`2nd · Dell×NVIDIA` | Air-gapped diagnostic AI on Dell GB10 hardware. An agentic loop over a local 122B LLM pairs BM25 retrieval with an evidence graph to trace cross-machine failures, citing every claim to an exact source line. | [Code](https://github.com/Dhruv-0-Arora/Nazar) |
 | **Cypher**<br>`3rd · CascadiaJS` | Real-time conflict-risk map. Event-driven Apify scrapes archived to Box for audit, Box AI extraction of structured flashpoints, XGBoost risk scoring, and Gemini narratives over an H3 hex heatmap. | [Code](https://github.com/Nano-AI/cascadia26) |
 | **Fegis**<br>`live` | Browser extension that flags sensitive data — API keys, client data, PDFs — *before* you paste it into an AI tool. Runs fully locally across the major LLM web apps. | [Try it](https://fegis.vercel.app/) |
+| **Focus Tracker**<br>`terminal` | A performance dashboard for the terminal that ships two interfaces over one SQLite database: an Ink TUI for people, and a headless JSON command surface for agents — `focus-tracker schema` prints the whole contract, every call returns one envelope. | [Site](https://nano-ai.github.io/Focus-Tracker/) · [Code](https://github.com/Nano-AI/Focus-Tracker) |
 | **Staff Code**<br>`nonprofit` | A free coding bootcamp I founded and ran from 2021–2025, teaching CS fundamentals to 50+ middle- and high-school students. | [Site](https://staffcode.dev) |
 | **MedCheck**<br>`3rd · Badger Build` | An Ethereum ledger letting pharmacies log drug batches on-chain, with QR codes patients scan to verify authenticity and dosage. Built in 36 hours, first time touching Solidity. | [Code](https://github.com/Nano-AI/Med-Check) · [Demo](https://www.youtube.com/watch?v=cdb0WkGtaUc) |
 
@@ -42,7 +44,7 @@ Mostly interested in the seam where **graphics, systems, and ML** meet — rende
 
 **Games & sims** — [SAT-Shark](https://www.youtube.com/watch?v=VZJzt6scgBU), multiplayer SAT prep over WebSockets · [Pac-Man from scratch](https://www.youtube.com/watch?v=TIrYUZJPQ_k), no libraries · [chess in C++/SDL2](https://www.youtube.com/watch?v=EjIU1NLMAPk) · [falling-sand simulator](https://www.youtube.com/watch?v=jb5hq8EoAU8) in WinGDI · [Unity movement shooter](https://www.youtube.com/watch?v=i5At7d9uaQ0)
 
-**Full-stack** — [CleanEats](https://github.com/Nano-AI/CleanEats), barcode → nutrition ([demo](https://www.youtube.com/watch?v=FSq0EKt5-Bs)) · [Litter.ly](https://github.com/Nano-AI/litter.ly), a social network for community clean-ups ([demo](https://www.youtube.com/watch?v=dlUDO7SRVz8)) · [Orion](https://github.com/Nano-AI/Orion), a RAW photo editor in C++ because I didn't want to pay for one
+**Full-stack** — [CleanEats](https://github.com/Nano-AI/CleanEats), barcode → nutrition ([demo](https://www.youtube.com/watch?v=FSq0EKt5-Bs)) · [Litter.ly](https://github.com/Nano-AI/litter.ly), a social network for community clean-ups ([demo](https://www.youtube.com/watch?v=dlUDO7SRVz8))
 
 </details>
 
