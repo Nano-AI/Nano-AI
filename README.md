@@ -1,91 +1,75 @@
-# Hey, I'm [Nano-AI](https://github.com/Nano-AI)!<br>![GitHub iampawan](https://img.shields.io/github/followers/Nano-AI?label=follow&style=social)
+<div align="center">
 
-## Languages and Tools:
-### Languages I Know/Use:
-<kbd>
-<img         src="./icons/python/python-original.svg" height="30">
-<img             src="./icons/java/java-original.svg" height="30">
-<img src="./icons/javascript/javascript-original.svg" height="30">
-<img src="./icons/typescript/typescript-original.png" height="30">
-<img           src="./icons/html5/html5-original.svg" height="30">
-<img             src="./icons/css3/css3-original.svg" height="30">
-<img                   src="./icons/c/c-original.png" height="30">
-<img   src="./icons/cplusplus/cplusplus-line.svg"     height="30">
-<img         src="./icons/csharp/csharp-original.svg" height="30">
-<img                 src="./icons/go/go-original.svg" height="30">
-<img             src="./icons/rust/rust-original.png" height="30">
-</kbd>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/husky-dark.gif">
+  <img src="./assets/husky-light.gif" width="181" alt="A 1-bit dithered husky slowly turning on a turntable">
+</picture>
 
-<details>
-    <summary>Languages in detail</summary>
+# Aditya Bankoti
 
-- Python
-- Java
-- JavaScript & TypeScript (Basically the same thing)
-- HTML, CSS
-- C, C++, and C# (Partly know it)
-- Go (Learning)
-- Rust (Hope to learn soon)
-</details>
+**Computer Science @ the University of Washington** — Paul G. Allen School<br>Software Engineer Intern at Costco Travel · Seattle, WA
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E3FD8?style=flat-square)](https://nano-ai.github.io) [![Blog](https://img.shields.io/badge/Blog-1E3FD8?style=flat-square)](https://nano-ai.github.io/blog/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-1E3FD8?style=flat-square)](https://www.linkedin.com/in/adityanb/) [![YouTube](https://img.shields.io/badge/YouTube-1E3FD8?style=flat-square)](https://www.youtube.com/@nano-ai) [![Email](https://img.shields.io/badge/Email-1E3FD8?style=flat-square)](mailto:adityab7@uw.edu)
 
-### IDEs I Use
+</div>
 
-<kbd>
-<img src="./icons/visualstudiocode/visualstudiocode-original.svg" height="30">
-<img src="./icons/vim/vim-original.svg" height="30">
-<img src="./icons/visualstudio/visualstudio-plain.svg" height="30">
-<img src="./icons/intellij/intellij-original.svg" height="30">    
-<img src="./icons/pycharm/pycharm-original.svg" height="30">
-<img src="./icons/codeblocks/codeblocks-original.png" height="30">
-<img src="./icons/eclipse/eclipse-original.png" height="30">
-<img src="./icons/sublime/sublime-original.svg" height="30">
-<img src="./icons/webstorm/webstorm-original.svg" height="30">
-</kbd>
+## Now
+
+- **Costco Travel** — building a full-stack DMN business-rules platform so analysts can author, test, and ship rules themselves. A custom web IDE plus atomic in-memory hot-reloading took rule deploys from three weeks to under a minute.
+- **UW Seattle** — heading to the Allen School this fall after a year at UW–Madison (3.92 GPA; algorithms, matrix methods for ML, machine organization).
+- **Writing** — long-form notes on things I take apart, over at [the blog](https://nano-ai.github.io/blog/).
+
+Mostly interested in the seam where **graphics, systems, and ML** meet — renderers, retrieval, and anything I can make run offline.
+
+## Selected work
+
+| Project | What it is | |
+| :--- | :--- | :--- |
+| **Nazar**<br>`2nd · Dell×NVIDIA` | Air-gapped diagnostic AI on Dell GB10 hardware. An agentic loop over a local 122B LLM pairs BM25 retrieval with an evidence graph to trace cross-machine failures, citing every claim to an exact source line. | [Code](https://github.com/Dhruv-0-Arora/Nazar) |
+| **Cypher**<br>`3rd · CascadiaJS` | Real-time conflict-risk map. Event-driven Apify scrapes archived to Box for audit, Box AI extraction of structured flashpoints, XGBoost risk scoring, and Gemini narratives over an H3 hex heatmap. | [Code](https://github.com/Nano-AI/cascadia26) |
+| **Fegis**<br>`live` | Browser extension that flags sensitive data — API keys, client data, PDFs — *before* you paste it into an AI tool. Runs fully locally across the major LLM web apps. | [Try it](https://fegis.vercel.app/) |
+| **Staff Code**<br>`nonprofit` | A free coding bootcamp I founded and ran from 2021–2025, teaching CS fundamentals to 50+ middle- and high-school students. | [Site](https://staffcode.dev) |
+| **MedCheck**<br>`3rd · Badger Build` | An Ethereum ledger letting pharmacies log drug batches on-chain, with QR codes patients scan to verify authenticity and dosage. Built in 36 hours, first time touching Solidity. | [Code](https://github.com/Nano-AI/Med-Check) · [Demo](https://www.youtube.com/watch?v=cdb0WkGtaUc) |
 
 <details>
-<summary>IDEs in detail</summary>    
-    
-- [Vim](https://www.vim.org/) - Goto editor for every language. Using it with SpaceVim and Tmux.
+<summary><b>Older things, mostly built to find out how something works</b></summary>
 
-- [Visual Studio Code](https://code.visualstudio.com/) - Used for bigger projects. Python, C, C++, Rust, JavaScript, TypeScript, HTML, CSS, Go.
- 
-- [Visual Studio](https://visualstudio.microsoft.com/) - C++ & C#
- 
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Java (Android Studio for Andriod dev)
-    
-- [CodeBlocks](http://www.codeblocks.org/) - C++ & C (Not using anymore)
-    
-- [PyCharm](https://www.jetbrains.com/pycharm/) - Python (Not using anymore)
+<br>
 
-- [Eclipse](https://www.eclipse.org/) - Java & C++ (Not using anymore)
-    
-- [Sublime Text](https://www.sublimetext.com/) - C (Not using anymore)
+**Graphics & engines** — [ray tracer in Java](https://www.youtube.com/watch?v=9r9MSqD6vKc) (depth, lighting, transparency) · [Wolfenstein-style ray caster](https://www.youtube.com/watch?v=U9RTGmFqN7U) · [fractal renderer](https://www.youtube.com/watch?v=baKRlHixcQY) · [PSX-style demo scene in Godot](https://www.youtube.com/watch?v=1s81vzSt3_g) · [3D sphere collider in RayLib + C++](https://www.youtube.com/watch?v=-c1E1xJwxCU) · [OpenGL, attempt *n*](https://github.com/Nano-AI/LearnOpenGL)
+
+**AI & ML** — [digit recognizer with a hand-rolled net](https://www.youtube.com/watch?v=c63ioyWuPUM) (NumPy only, custom GUI) · [Smarty Pants](https://www.youtube.com/watch?v=PzeFaZ95Kig), RAG over scholarship listings · [LLM-dev](https://github.com/Nano-AI/LLM-dev), learning to build them from the bottom
+
+**Games & sims** — [SAT-Shark](https://www.youtube.com/watch?v=VZJzt6scgBU), multiplayer SAT prep over WebSockets · [Pac-Man from scratch](https://www.youtube.com/watch?v=TIrYUZJPQ_k), no libraries · [chess in C++/SDL2](https://www.youtube.com/watch?v=EjIU1NLMAPk) · [falling-sand simulator](https://www.youtube.com/watch?v=jb5hq8EoAU8) in WinGDI · [Unity movement shooter](https://www.youtube.com/watch?v=i5At7d9uaQ0)
+
+**Full-stack** — [CleanEats](https://github.com/Nano-AI/CleanEats), barcode → nutrition ([demo](https://www.youtube.com/watch?v=FSq0EKt5-Bs)) · [Litter.ly](https://github.com/Nano-AI/litter.ly), a social network for community clean-ups ([demo](https://www.youtube.com/watch?v=dlUDO7SRVz8)) · [Orion](https://github.com/Nano-AI/Orion), a RAW photo editor in C++ because I didn't want to pay for one
+
 </details>
 
+## Lab log
 
-### Tools/Frameworks I Know/Use
-<kbd>
-<img src="./icons/nodejs/nodejs-original.svg" height="30">
-<img src="./icons/bootstrap/bootstrap-plain.svg" height="30">
-<img src="./icons/react/react-original.svg" height="30">
-<img src="./icons/materialui/materialui-original.svg" height="30">
-<img src="./icons/electron/electron-original.svg" height="30">
-</kbd>
+| When | What | Result |
+| :--- | :--- | :--- |
+| `Jul 2026` | Dell × NVIDIA Hackathon — **Nazar** | 2nd of 40 teams |
+| `Jun 2026` | CascadiaJS 2026 — **Cypher** | 3rd place |
+| `May 2026` | IMC Prosperity 4, algorithmic trading | Round 4 · top-quartile PnL |
+| `Dec 2025` | Badger Build Fest — **MedCheck** | 3rd, blockchain track |
+| `Jul 2025` | Yoodli vibe-coding hackathon — **Bludify** | Top-5 finalist |
+| `Mar 2024` | HackPNW — **SAT-Shark** | Best Functionality |
 
-<details>
-<summary>Tools in detail</summary>
+## The ledger
 
-- [Node](https://nodejs.org/en/)
-- [Bootstrap](https://getbootstrap.com/)
-- [React](https://reactjs.org/)
-- [Material UI](https://material-ui.com/)
-- [Electron](https://www.electronjs.org/)
-</details>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg">
+  <img src="./assets/stats-light.svg" alt="Ledger plate: bars ranking the languages that lead the most public repos, where length is repo count and dot density is how recently each was pushed to, plus the frameworks and engines also in rotation">
+</picture>
 
-## GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nano-AI&show_icons=true&theme=dark)
+<sub>Drawn by [`scripts/build-stats.mjs`](./scripts/build-stats.mjs), redrawn weekly from the GitHub API — no third-party stats service to go down.</sub>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nano-AI&theme=dark&hide=html,css,scss&layout=compact)](https://github.com/Nano-AI)
+## Writing
 
-<a href="https://data.typeracer.com/pit/profile?user=suncrusader&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=suncrusader" border="0" alt="TypeRacer.com scorecard for user suncrusader"/></a>
+**[Ways to Decompose a Face](https://nano-ai.github.io/blog/posts/2026-04-23-eigenfaces/)** — `15 min`<br>Eigenfaces from scratch with SVD, then NNMF: how each one reconstructs, compresses, and generates faces.
+
+More at [nano-ai.github.io/blog](https://nano-ai.github.io/blog/).
+
+---

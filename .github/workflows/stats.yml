@@ -1,0 +1,37 @@
+name: Refresh stats plate
+
+# Redraws assets/stats-{light,dark}.svg from the GitHub API so the README card
+# stays current without depending on a third-party stats service.
+on:
+  schedule:
+    - cron: '17 6 * * 1' # Mondays, 06:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Build the plate
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/build-stats.mjs
+
+      - name: Commit if it changed
+        run: |
+          if [[ -z "$(git status --porcelain assets)" ]]; then
+            echo "no change"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git commit -m "chore: refresh stats plate"
+          git push
