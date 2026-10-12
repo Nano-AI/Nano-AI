@@ -22,8 +22,8 @@ if (!TOKEN) { console.error('set GITHUB_TOKEN'); process.exit(1); }
 // Things that don't show up as a repo's primary language but are very much in use.
 // Hand-maintained — the bars above are measured, this line is declared.
 const ALSO = [
-  'Spring Boot · React · Next.js · Astro · Node · Docker',
-  'Unity · Godot · OpenGL · SDL2 · RayLib · NumPy · pandas',
+  'Metal · SwiftUI · Bubble Tea · OpenTUI · React · Spring Boot',
+  'NumPy · pandas · SQLite · Docker · Ollama · MCP',
 ];
 
 const QUERY = `{
@@ -118,14 +118,14 @@ function card({ paper, ink, cobalt, muted, hairline }) {
   // Step wedge: the legend for bar density. One baseline, right-aligned, so it
   // sits in the footer row instead of colliding with the tools line.
   const SW = 22, SH = 9, GAP = 3, BASE = H - 22;
-  const endMo = W - PAD, endSwatch = endMo - 32, startSwatch = endSwatch - (SW * 4 + GAP * 3);
+  const endMo = W - PAD, endSwatch = endMo - 40, startSwatch = endSwatch - (SW * 4 + GAP * 3);
   const wedge = BAYER.map((_, i) =>
     `<rect x="${startSwatch + i * (SW + GAP)}" y="${BASE - SH + 1}" width="${SW}" height="${SH}" fill="url(#d${i})"/>` +
     `<rect x="${startSwatch + i * (SW + GAP)}" y="${BASE - SH + 1}" width="${SW}" height="${SH}" fill="none" stroke="${hairline}" stroke-width="1"/>`
   ).join('') +
     `<text x="${startSwatch - 8}" y="${BASE}" text-anchor="end" font-family="${MONO}" font-size="9" letter-spacing="0.8" fill="${muted}">3Y+</text>` +
     `<text x="${startSwatch - 34}" y="${BASE}" text-anchor="end" font-family="${MONO}" font-size="9" letter-spacing="1.2" fill="${muted}">DENSITY = LAST PUSH</text>` +
-    `<text x="${endMo}" y="${BASE}" text-anchor="end" font-family="${MONO}" font-size="9" letter-spacing="0.8" fill="${muted}">6 MO</text>`;
+    `<text x="${endMo}" y="${BASE}" text-anchor="end" font-family="${MONO}" font-size="9" letter-spacing="0.8" fill="${muted}">&lt;6 MO</text>`;
 
   const alsoLines = ALSO.map((line, i) =>
     `<text x="${PAD + 150}" y="${314 + i * 19}" font-family="${MONO}" font-size="11.5" fill="${ink}">${esc(line)}</text>`
@@ -138,8 +138,8 @@ function card({ paper, ink, cobalt, muted, hairline }) {
 <rect x="0.5" y="0.5" width="${W - 1}" height="${H - 1}" fill="${paper}" stroke="${hairline}" stroke-width="1"/>
 ${reg}
 <text x="${PAD}" y="44" font-family="${MONO}" font-size="10" letter-spacing="2.2" fill="${cobalt}">PLATE 08 — LEDGER</text>
-<text x="${W - PAD}" y="44" text-anchor="end" font-family="${MONO}" font-size="10" letter-spacing="1.4" fill="${muted}">GITHUB.COM/${USER.toUpperCase()}</text>
-<text x="${PAD}" y="78" font-family="${SANS}" font-size="24" font-weight="700" fill="${ink}">What I build with</text>
+<text x="${W - PAD}" y="44" text-anchor="end" font-family="${MONO}" font-size="10" letter-spacing="1.4" fill="${muted}">UPDATED ${new Date().toISOString().slice(0, 10)} UTC</text>
+<text x="${PAD}" y="78" font-family="${SANS}" font-size="24" font-weight="700" fill="${ink}">Primary languages across public repos</text>
 <rect x="${PAD}" y="${RULE_TOP}" width="${W - PAD * 2}" height="1" fill="${hairline}"/>
 ${rows}
 <rect x="${PAD}" y="${RULE_MID}" width="${W - PAD * 2}" height="1" fill="${hairline}"/>
